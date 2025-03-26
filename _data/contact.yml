@@ -3,25 +3,26 @@
 - type: github
   icon: "fab fa-github"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+- type: linkedin
+  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
+  url: "https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGwo9RhhCAOyAAAAZXUSDHAVZOD8fNSKeb_U5Q1AdSSdc9YBBDG4Bw10CWcfCfn5IgPDEuojlGDkDi7wMwvB7JsTkSRYefp2vIHrHWYba3A_m2AQxNiiu48mOjYam97p5vO2lI=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgal-krauthaker-601714216%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dios_app" # Fill with your Linkedin homepage
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
 #
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
