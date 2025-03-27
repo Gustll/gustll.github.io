@@ -13,6 +13,7 @@ script_includes:
 {% include lang.html %} {% include toc-status.html %}
 
 <article class="px-1" data-toc="{{ enable_toc }}">
+  {% if page.title != "About"%}
   <header>
     <h1 data-toc-skip>{{ page.title }}</h1>
     {% if page.description %}
@@ -90,8 +91,7 @@ script_includes:
       </div>
     </div>
   </header>
-
-  {% if enable_toc %}
+  {% endif %} {% if enable_toc %}
   <div
     id="toc-bar"
     class="d-flex align-items-center justify-content-between invisible"
