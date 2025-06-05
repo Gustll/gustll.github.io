@@ -19,7 +19,7 @@ toc: true
 ---
 
 ### Website development for MJP-GC 
-**MJP-GC**  
+**Project**  
 📆 2025 
 
 - Design & deployment of a single page website  
@@ -39,8 +39,8 @@ toc: true
 ---
 
 ### Website development for an athlete
-**MJP-GC**  
-📆 2025 
+**Project**  
+📆 2022
 
 - Create a custom WordPress templates
 - Using HTML, CSS, Bootstrap, PHP, JavaScript  
@@ -78,7 +78,7 @@ toc: true
 ---
 
 ### Website Development for Atletski klub Krka
-**AK Krka**  
+**Project**  
 📆 2021
 
 - Creating custom WordPress templates  
