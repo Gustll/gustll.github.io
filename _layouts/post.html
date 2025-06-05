@@ -132,6 +132,7 @@ script_includes:
 
   <div class="content">{{ content }}</div>
 
+  {% if page.title != "About"%}
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
     {% if page.categories.size > 0 %}
@@ -178,5 +179,6 @@ script_includes:
     </div>
     <!-- .post-tail-bottom -->
   </div>
+  {% endif %}
   <!-- div.post-tail-wrapper -->
 </article>

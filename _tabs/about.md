@@ -9,12 +9,42 @@ toc: true
 ## 🔧 Work Experience
 
 ### Full Stack Programming  
+**Project**  
+📆 2025 - 
+
+- Full-stack programming, web app, srv + mobile app for taking Polar device measurements 
+- TypeScript, GO, Kotlin
+- Angular, Docker, PolarSDK
+
+---
+
+### Website development for MJP-GC 
+**MJP-GC**  
+📆 2025 
+
+- Design & deployment of a single page website  
+- Using HTML, CSS, JS, Cloudflare
+- <https://mjpgc.si/>
+
+---
+
+### Full Stack Programming  
 **BlueOcean Gaming**  
 📆 2023 -
 
 - Full-stack programming  
 - Elixir, TypeScript, Elm, PostgreSQL, MySQL
 - Angular, Vue.js, Three.js, Kafka, Docker
+
+---
+
+### Website development for an athlete
+**MJP-GC**  
+📆 2025 
+
+- Create a custom WordPress templates
+- Using HTML, CSS, Bootstrap, PHP, JavaScript  
+- <https://matevz-sustarsic.si/>
 
 ---
 
@@ -53,6 +83,7 @@ toc: true
 
 - Creating custom WordPress templates  
 - Using HTML, CSS, Bootstrap, PHP, JavaScript  
+- <https://atletskiklub-nm.si/>
 
 ---
 
@@ -104,7 +135,7 @@ toc: true
 
 
 ### Vocational College – Informatics
-2019 - 2022
+📆 2019 - 2022
 - **School**: School Center Novo mesto
 - **Degree**: Vocational College – Informatics
 
