@@ -6,27 +6,20 @@ layout: post
 toc: true
 ---
 
+<div style="text-align: center;">
+    <h2>📝 CV</h2>
+</div>
+
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+  <a href="/cv/cv_en_Krauthaker.pdf" target="_blank">ENG</a> 
+  <span style="font-size: 20px;">|</span> 
+  <a href="/cv/cv_Krauthaker.pdf" target="_blank">SLO</a>
+
+</div>
+
 ## 🔧 Work Experience
-
-### Full Stack Programming  
-**Project**  
-📆 2025 - 
-
-- Full-stack programming, web app, srv + mobile app for taking Polar device measurements 
-- TypeScript, GO, Kotlin
-- Angular, Docker, PolarSDK
-
----
-
-### Website development for MJP-GC 
-**Project**  
-📆 2025 
-
-- Design & deployment of a single page website  
-- Using HTML, CSS, JS, Cloudflare
-- <https://mjpgc.si/>
-
----
 
 ### Full Stack Programming  
 **BlueOcean Gaming**  
@@ -35,16 +28,6 @@ toc: true
 - Full-stack programming  
 - Elixir, TypeScript, Elm, PostgreSQL, MySQL
 - Angular, Vue.js, Three.js, Kafka, Docker
-
----
-
-### Website development for an athlete
-**Project**  
-📆 2022
-
-- Create a custom WordPress templates
-- Using HTML, CSS, Bootstrap, PHP, JavaScript  
-- <https://matevz-sustarsic.si/>
 
 ---
 
@@ -74,16 +57,6 @@ toc: true
 
 - Python programming  
 - Dash, Plotly  
-
----
-
-### Website Development for Atletski klub Krka
-**Project**  
-📆 2021
-
-- Creating custom WordPress templates  
-- Using HTML, CSS, Bootstrap, PHP, JavaScript  
-- <https://atletskiklub-nm.si/>
 
 ---
 
@@ -128,6 +101,54 @@ toc: true
 - Image editing for the website  
 - Assisting in phone repairs  
 - Cleaning computers
+
+---
+
+## 🔨 Projects
+
+### Full Stack Programming  
+**Project**  
+📆 2025 - 
+
+- Full-stack programming, web app, srv + mobile app for taking Polar device measurements 
+- TypeScript, GO, Kotlin
+- Angular, Docker, PolarSDK
+
+---
+
+### Webshop development
+**Project**  
+📆 2025 
+
+- Create a custom WordPress template for a webshop
+- HTML, CSS, JS, PHP
+
+---
+
+### Website development
+**Project**  
+📆 2025 
+
+- Design & deployment of a single page website  
+- HTML, CSS, JS, Cloudflare
+
+---
+
+### Website development
+**Project**  
+📆 2022
+
+- Create a custom WordPress templates
+- HTML, CSS, Bootstrap, PHP, JavaScript
+
+---
+
+### Website Development 
+**Project**  
+📆 2021
+
+- Creating custom WordPress templates  
+- HTML, CSS, Bootstrap, PHP, JavaScript
 
 ---
 
