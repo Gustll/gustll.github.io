@@ -157,9 +157,21 @@ I actively encourage merge requests and collaborative review processes to improv
 
 ## 🔨 Projects
 
+### Full Stack Programming
+**Personal full-stack project, mobile app + web frontend**
+📆 2026
+
+- TypeScript, Supabase, React Native (Expo), Next.js
+- Mobile app development with React Native and Expo
+- Backend services, authentication, and database with Supabase
+- Developing frontend web application with Next.js
+- API integration, state management, and full-stack architecture
+
+---
+
 ### Full Stack Programming  
 **Project**  
-📆 2025 - 
+📆 2025
 
 - Full-stack programming, web app, srv + mobile app for taking Polar device measurements 
 - TypeScript, GO, Kotlin
