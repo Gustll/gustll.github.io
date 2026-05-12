@@ -59,7 +59,7 @@ I actively encourage merge requests and collaborative review processes to improv
   <div><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Elm_logo.svg" alt="Elm" style="width: 50px; height: 50px;"><p>Elm</p></div>
   <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/768px-Three.js_Icon.svg.png" alt="Three.js" style="width: 50px; height: 50px;"><p>Three.js</p></div>
 
-  <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/React_Native_Logo.png/960px-React_Native_Logo.png" alt="React Native" style="width: 50px; height: 50px;"><p>React Native</p></div>
+  <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/React_Native_Logo.png/960px-React_Native_Logo.png" alt="React Native" style="width: 100px; height: 50px;"><p>React Native</p></div>
 </div>
 
 ### ⚙️ DevOps / Deployment
