@@ -13,8 +13,8 @@ toc: true
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
   <a href="/cv/cv_en_Krauthaker.pdf" target="_blank">ENG</a> 
-  <span style="font-size: 20px;">|</span> 
-  <a href="/cv/cv_Krauthaker.pdf" target="_blank">SLO</a>
+  <!-- <span style="font-size: 20px;">|</span> 
+  <a href="/cv/cv_Krauthaker.pdf" target="_blank">SLO</a> -->
 
 </div>
 
